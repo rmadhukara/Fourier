@@ -1,2 +1,7 @@
 # Fourier
-Code for Fourier Coefficients of Level 1 Hecke Eigenforms Paper (2020)
+SageMath and PARI/GP code for
+
+[HM] ``Fourier Coefficients of Level 1 Hecke Eigenforms'' (Mitsuki Hanada and Rachana Madhukara) 
+
+The file hyperellipticcurves.ipynb has the code used to determine integer points on hyperelliptic curves in [HM]. 
+The file continuedfractions.ipynb has the code for running the continued fraction arguemnt in [HM]. 
