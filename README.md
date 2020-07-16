@@ -1,5 +1,5 @@
 # Fourier
-SageMath and PARI/GP code for
+Python code (SageMath) for
 
 [HM] ``Fourier Coefficients of Level 1 Hecke Eigenforms'' (Mitsuki Hanada and Rachana Madhukara) 
 
